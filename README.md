@@ -6,6 +6,11 @@ In server.cfg, put in "start esx_carimports"
 In server.cfg, put in "start atoms-showroom"
 Original script is from https://github.com/jamybboyjd/carimports1.2/tree/master/esx_carimports
 
+
+
+
+Cars not included.
+
 ![image](https://user-images.githubusercontent.com/87045311/134104359-84071de0-a992-4483-9200-ad7e97e3cdde.png)
 
 
